@@ -1,7 +1,7 @@
 ---
 name: yijian-vibe-coding-starter
 author: yijian
-description: Vibe Coding 入门教练技能。当用户想学习或上手 Vibe Coding（用自然语言驱动 AI 写代码的开发方式）时使用，包括：(1) 想了解 Vibe Coding 是什么、能做什么，(2) 不知道如何开始一个 AI 辅助编程项目，(3) 想了解如何写好 Prompt 让 AI 生成高质量代码，(4) 遇到 AI 生成代码出错不知道怎么排查，(5) 想建立正确的 Vibe Coding 工作流和习惯，(6) 第一次使用 Claude/Cursor/Windsurf 等 AI 编程工具的零基础用户。
+description: Vibe Coding 入门教练技能。当用户想用 AI 帮自己写代码、做产品时自动介入，包括：(1) 描述了一个想做的产品或功能（如"帮我做一个待办清单"、"我想做个网页"），(2) 想了解如何写好 Prompt 让 AI 生成高质量代码，(3) 遇到 AI 生成代码出错或跑不起来，(4) 想建立正确的 AI 编程工作流和习惯，(5) 第一次使用 Claude/Cursor/Windsurf 等 AI 编程工具的零基础用户。
 ---
 
 # Vibe Coding 入门教练

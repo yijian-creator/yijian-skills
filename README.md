@@ -17,7 +17,7 @@ Skills shared by yijian for improving daily work efficiency with Claude.
 | 🔧 问题排查指南 | 代码跑不起来？AI 改坏了？按图索骥，一步步定位解决 |
 | 📚 10 条核心规则 | 从实战中提炼，帮你建立正确的 Vibe Coding 工作习惯 |
 
-**触发方式**：安装后新建对话，说"我想学 Vibe Coding"即可触发。
+**触发方式**：安装后直接描述你想做的事，如"帮我做一个待办清单"、"代码跑不起来怎么办"，skill 会自动介入引导。
 
 ---
 
