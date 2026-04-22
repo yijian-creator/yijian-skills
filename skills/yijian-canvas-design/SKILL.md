@@ -74,7 +74,14 @@ test -f "$HOME/.yijian-skills/yijian-canvas/EXTEND.md" && echo "user"
 
 ### Step 4: Canvas Creation
 
-以哲学和概念框架为基础，在画布上表达。
+以哲学和概念框架为基础，在画布上表达。**自动激活设计优化模式**：在内部完成设计质询和提升流程，用户只看到最终打磨好的成品。详细执行规范见 [references/design-system.md](references/design-system.md)。
+
+**设计优化核心步骤（内部执行，不对用户展示）**：
+1. 应用「设计质询清单」逐项审视字体、色彩、布局、层级、润色
+2. 从「技术目录」中选取适合当前风格的具体技法
+3. 参考「参考库」中的设计典范汲取灵感
+4. 按「7 阶段提升流程」系统优化
+5. 用「品味过滤器」做最终把关
 
 - 单页，高度视觉化，设计感优先（除非要求多页）
 - 使用重复图案和完美形状，借鉴系统性观察的视觉语言
@@ -130,6 +137,7 @@ test -f "$HOME/.yijian-skills/yijian-canvas/EXTEND.md" && echo "user"
 | 文件 | 内容 |
 |------|------|
 | [references/workflow.md](references/workflow.md) | 详细执行流程 |
+| [references/design-system.md](references/design-system.md) | 视觉设计系统（质询清单 + 技术目录 + 参考库 + 7 阶段提升流程 + 品味过滤器） |
 | [references/fonts.md](references/fonts.md) | 字体选择指南（按风格分类 + 搭配建议 + 中文处理） |
 | [references/config/preferences-schema.md](references/config/preferences-schema.md) | 偏好配置规范 |
 | [references/config/first-time-setup.md](references/config/first-time-setup.md) | 首次初始化引导 |
