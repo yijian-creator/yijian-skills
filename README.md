@@ -30,6 +30,7 @@ Skills shared by yijian for improving daily work efficiency with Claude.
 | 🎯 渠道风格适配 | 小红书 / 公众号 / 博客 三种风格，语气、排版、emoji 全部按渠道走 |
 | 🧠 动态配图决策 | 不用固定节点数，按内容触发器（流程/对比/数据/结构/时间）和语义边界算出图位与张数，参考《用图表说话》 |
 | 🎨 委托画图 | 自动生成 `canvas_brief` 并交给 `yijian-canvas-design` 出图，互不干扰 |
+| 🇨🇳 中文输出 | 全流程简体中文产出（正文、图内文字、字段名外的所有内容），原文英文也会翻译改写 |
 | 📦 即发即用 | 默认输出 `article.md`（已嵌入图片），可选 `article.json` 给 API 调用，统一落到 `~/Downloads/{文章标题}/` |
 
 **触发方式**：把原文丢进对话框，说一句"帮我改成小红书 / 公众号 / 博客"，skill 自动介入。
