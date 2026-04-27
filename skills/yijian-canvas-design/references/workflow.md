@@ -14,8 +14,8 @@ test -f "$HOME/.yijian-skills/yijian-canvas/EXTEND.md" && echo "user"
 找到后读取并显示摘要：
 ```
 ✅ 偏好配置已加载
-   水印：钧弈（右下角，透明度 0.7）
-   输出目录：/Users/junyi/Downloads
+   水印：{你的署名}（右下角，透明度 0.7）
+   输出目录：{你的输出目录}
    语言：zh-CN
 ```
 

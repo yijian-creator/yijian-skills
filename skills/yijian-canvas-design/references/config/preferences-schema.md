@@ -27,7 +27,7 @@ canvas_size:
 |------|------|------|------|
 | `version` | int | ✅ | 配置版本，当前为 1 |
 | `watermark.enabled` | bool | ✅ | 是否启用水印 |
-| `watermark.content` | string | ✅ | 水印文字（如：钧弈） |
+| `watermark.content` | string | ✅ | 水印文字（如：你的名字或昵称） |
 | `watermark.position` | enum | ✅ | 水印位置 |
 | `watermark.opacity` | float | ✅ | 透明度，0.0=不可见，1.0=完全不透明 |
 | `default_output_dir` | path | ✅ | 输出根目录，文件保存到 `{dir}/canvas/{slug}/` |
@@ -52,10 +52,10 @@ canvas_size:
 version: 1
 watermark:
   enabled: true
-  content: "钧弈"
+  content: "你的署名"
   position: bottom-right
   opacity: 0.7
-default_output_dir: /Users/junyi/Downloads
+default_output_dir: ~/Downloads
 language: zh-CN
 ---
 ```
