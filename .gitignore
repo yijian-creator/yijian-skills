@@ -1,1 +1,5 @@
 .DS_Store
+
+# 用户私有配置（含水印、本地路径等个人信息，不进 git）
+.yijian-skills/
+**/EXTEND.md
